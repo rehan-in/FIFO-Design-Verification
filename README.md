@@ -122,13 +122,15 @@ FIFO_Project/
 │── tb/
 │   ├── fifo_tb.sv
 │
-│── simulation/
+│── docs
+│	 ├── FIFO_report
+│── results/
+│   ├── rtl_schematics.png
+│   ├── scoreboard_log.png
+│	 ├── timing_report.png
+│   ├── underflow.png
+|   ├── utilization_report.png
 │   ├── waveform.png
-│
-│── synthesis/
-│   ├── utilization_report.png
-│   ├── timing_report.png
-│
 │── README.md
 ```
 
